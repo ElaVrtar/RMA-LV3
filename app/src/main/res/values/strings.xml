@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Birds counter</string>
+    <string name="initial_value">0</string>
+    <string name="reset">reset</string>
+    <string name="str_bird_states">Bird states</string>
+    <string name="str_initial_value">0</string>
+    <string name="str_bird_count_states">Bird count</string>
+    <string name="str_bird_color">Bird color</string>
+    <string name="str_bird_yellow">Bird yellow</string>
+    <string name="str_bird_green">Bird green</string>
+    <string name="str_bird_red">Bird red</string>
+    <string name="str_bird_brown">Bird brown</string>
+</resources>
